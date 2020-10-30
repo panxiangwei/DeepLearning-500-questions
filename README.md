@@ -1,4 +1,29 @@
 # 禁止转载，禁止转载，禁止转载！
+# GitHub上非最新内容，最新内容请期待新书。
+
+## 
+
+### 学习交流群
+
+
+
+<center>
+    <img src="qun.png" width="300"/>
+    <br>
+    <div">学习交流群</div>
+</center>
+
+
+
+
+
+## 理解CNN、CNN可视化  CNN-Visualization 
+
+## https://github.com/scutan90/CNN-Visualization
+
+## 深度学习乳腺癌识别与诊断
+
+## https://github.com/scutan90/Breast-imaging-Deeplearning
 
 # 英文版本 
 
@@ -67,7 +92,7 @@
 
    (进群先在MD版本增加、改善、提交内容后，更易进群，享受分享知识帮助他人。)
 
-   ![](./qun5.png)
+   ![](qun23.png)
 
 3. Markdown阅读器推荐：https://typora.io/ 免费且对于数学公式显示支持的比较好。
 
